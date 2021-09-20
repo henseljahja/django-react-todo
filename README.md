@@ -39,7 +39,7 @@
 
 </h2>
   <p align="center">
-    Create, Read, Update, and Delete (CRUD) applications, is basically what 90% of existing applications are, this Todo app demonstrate a simple CRUD app on famous backend framework Django, and frontend framework React.
+    Todo App, with django as fast development backend framework, and react as fast and stable development front framework..
     <!-- <br /> -->
     <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a> -->
     <!-- <br /> -->
@@ -85,7 +85,7 @@
 
 # About The Project
 
-Analysis is needed for reporting the customer feedback from a product, this project aim at analysis and report of customer insight,
+Create, Read, Update, and Delete (CRUD) applications, is basically what 90% of existing applications are, this Todo app demonstrate a simple CRUD app on famous backend framework Django, and frontend framework React.
 
 <!-- GETTING STARTED -->
 
